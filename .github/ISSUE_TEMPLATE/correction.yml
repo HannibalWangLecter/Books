@@ -1,0 +1,46 @@
+name: "勘误"
+description: "报告已发布文本里的错误：错字、断句，或和底本不符的引文。Report an error in a published text."
+title: "勘误：《书名》"
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请把标题里的《书名》换成出错的那一本。引一句正文里的原句，并写明你对照的底本。
+
+        Replace 《书名》 in the title. Quote the sentence as printed, and name the source you checked.
+  - type: dropdown
+    id: book
+    attributes:
+      label: 哪一本 / Which book
+      options:
+        - 《伊利亚特》现代小说版
+        - 《奥德赛》现代小说版
+        - 《金刚经》现代导读
+        - 《金刚经》原文
+        - 其他（写在下面）
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: 位置 / Where
+      description: 章节、分名，或靠近的原句。
+      placeholder: 如：伊利亚特第六章 / 金刚经第五分
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题是什么 / What's wrong
+      description: 贴上正文里的原句，并说明错在哪里。
+      placeholder: 正文写的是……底本（书名、篇目或大正藏编号）作……
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 建议改成 / Suggested fix
+      description: 没有把握可以空着。请不要编一句原文里没有的话来替换。
+    validations:
+      required: false
