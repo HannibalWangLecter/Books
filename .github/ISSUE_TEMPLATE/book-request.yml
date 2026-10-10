@@ -1,0 +1,74 @@
+name: "📚 许愿重写：《书名》"
+description: "许下一本你读不进去、却想读完的经典。Request a classic rewritten for modern readers."
+title: "📚 许愿重写：《书名》"
+labels: ["book-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请把标题里的《书名》换成你要的那一本。同一本已经有人许过的，请到那条 issue 下点 👍，不要再开一条。👍 多的优先写。
+
+        Replace 《书名》 in the title with the book you want. If an open request already exists, add a 👍 there instead of opening a duplicate. The most 👍 come first.
+  - type: input
+    id: book-title
+    attributes:
+      label: 书名 / Book title
+      description: 你希望重写或导读的那一本。
+      placeholder: 如《庄子》《神曲》《论语》
+    validations:
+      required: true
+  - type: input
+    id: author-era
+    attributes:
+      label: 作者或时代 / Author or era
+      description: 知道多少写多少，不确定可以空着。
+      placeholder: 如：荷马 / 先秦 / 但丁
+    validations:
+      required: false
+  - type: input
+    id: edition
+    attributes:
+      label: 希望依据的版本或译本 / Preferred edition or translation
+      description: 有底本、注本或译本偏好就写在这里。
+      placeholder: 如：王弼注、罗念生译本、大正藏
+    validations:
+      required: false
+  - type: textarea
+    id: why
+    attributes:
+      label: 为什么难读，为什么想要 / Why it's hard, and why you want it
+      description: 你卡在哪里，读完之后想拿它做什么。
+      placeholder: 专名太多、译本太厚、句子绕，而你想先把故事或用法读进去。
+    validations:
+      required: true
+  - type: dropdown
+    id: style
+    attributes:
+      label: 希望的写法 / Preferred style
+      description: 不选也可以。我们会按这本书怎样才读得完来定。
+      options:
+        - 小说化重写
+        - 原文+逐章导读
+        - 精华摘要
+        - 其他
+    validations:
+      required: false
+  - type: dropdown
+    id: length
+    attributes:
+      label: 希望的篇幅 / Target length
+      description: 一个大概就好。
+      options:
+        - 短读（约一万字）
+        - 中篇（约两三万字，一个周末）
+        - 长导读（逐章对照，约五万字）
+        - 随你定
+    validations:
+      required: false
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: 还有什么想说的 / Anything else
+      description: 必须保留的句子、不想看到的写法、你已经试过的译本，都可以。
+    validations:
+      required: false
