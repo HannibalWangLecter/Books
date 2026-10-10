@@ -17,9 +17,9 @@
 | 《伊利亚特》 | 小说化重写 | 34,210 字 | [阅读](荷马史诗/伊利亚特_现代版.txt) |
 | 《奥德赛》 | 小说化重写 | 33,462 字 | [阅读](荷马史诗/奥德赛_现代版.txt) |
 | 《金刚经》 | 原文+导读 | 导读 55,197 字 · 经文 5,460 字 | [导读](金刚经/金刚经_现代导读.md) · [原文](金刚经/金刚经_原文.txt) |
-| 《道德经》 | 原文+导读 | 即将上线 / coming soon |  |
+| 《道德经》 | 原文+逐章导读 | 导读 93,811 字 · 经文 5,287 字 | [导读](道德经/道德经_现代导读.md) · [原文](道德经/道德经_原文.txt) |
 
-史诗先读《伊利亚特》，再读《奥德赛》。《金刚经》可以单独打开。
+史诗先读《伊利亚特》，再读《奥德赛》。《金刚经》和《道德经》可以单独打开。
 
 ## 来许愿
 
@@ -45,11 +45,15 @@
 
 > 一部五千多字的古经，只回答一个问题：心，要放在哪里，才能既全力以赴，又不被困住？
 
+**《道德经》**
+
+> 一部五千多字的小书，反复讲一件事：在一个人人都想更强、更多、更快的世界里，柔软、留白、退一步，为什么反而走得更远？
+
 <img alt="金刚经思维导图：根节点是心要放在哪里，分出核心问题、核心概念、方法与结论" src="金刚经/金刚经_思维导图.png" width="880">
 
 ## English
 
-Hard classics, rewritten so modern readers can finish them and use them. Faithful plots and famous lines stay; the prose is contemporary Chinese. Epics are novella-length retellings. The Diamond Sutra is the verified Kumārajīva text plus a section-by-section guide (mind map, philosophy and science as labeled analogies, fictional cases, short exercises). A *Dao De Jing* guide is coming soon.
+Hard classics, rewritten so modern readers can finish them and use them. Faithful plots and famous lines stay; the prose is contemporary Chinese. Epics are novella-length retellings. The Diamond Sutra is the verified Kumārajīva text plus a section-by-section guide (mind map, philosophy and science as labeled analogies, fictional cases, short exercises). The *Tao Te Ching* is the verified Wang Bi text plus an 81-chapter guide.
 
 [Request a book](https://github.com/HannibalWangLecter/Books/issues/new?template=book-request.yml). If someone already asked, add a 👍 on that issue — the most 👍 come first.
 
@@ -57,8 +61,8 @@ Public-domain originals stay public domain. Rewrites and commentary are [CC BY 4
 
 ## 关键词
 
-荷马史诗，伊利亚特，奥德赛，特洛伊战争，希腊神话，白话，现代版，Homer，Iliad，Odyssey，Greek mythology，Chinese retelling，金刚经，金刚般若波罗蜜经，佛经白话，般若，空性，正念，哲学，Diamond Sutra，Buddhism，Prajnaparamita，philosophy，道德经。
+荷马史诗，伊利亚特，奥德赛，特洛伊战争，希腊神话，白话，现代版，Homer，Iliad，Odyssey，Greek mythology，Chinese retelling，金刚经，金刚般若波罗蜜经，佛经白话，般若，空性，正念，哲学，Diamond Sutra，Buddhism，Prajnaparamita，philosophy，道德经，老子，道家，无为，Tao Te Ching，Laozi，Taoism。
 
 ## 授权
 
-荷马史诗与鸠摩罗什译《金刚经》是公有领域文本。本仓库的小说化重写、导读解说和思维导图采用 [CC BY 4.0](LICENSE)。转载或改编这些新写的部分时，请署名并链接本仓库与许可协议；改动了的，请标明。
+荷马史诗、鸠摩罗什译《金刚经》与王弼本《道德经》是公有领域文本。本仓库的小说化重写、导读解说和思维导图采用 [CC BY 4.0](LICENSE)。转载或改编这些新写的部分时，请署名并链接本仓库与许可协议；改动了的，请标明。
