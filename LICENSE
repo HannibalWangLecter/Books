@@ -1,21 +1,24 @@
 知识共享 署名 4.0 国际 (CC BY 4.0)
 Creative Commons Attribution 4.0 International
 
-本仓库中的现代中文重述
+以下内容采用知识共享署名 4.0 国际许可协议授权：
 
 - 荷马史诗/伊利亚特_现代版.txt
 - 荷马史诗/奥德赛_现代版.txt
+- 金刚经/金刚经_现代导读.md 中的导读、白话、解析、现代视角、生活案例、练习与阅读框架
+- 金刚经/金刚经_思维导图.png
 
-采用知识共享署名 4.0 国际许可协议授权。
-
-你可自由分享、复制、改编这些重述，亦包括商业性使用，只要遵守以下条件：
+你可自由分享、复制、改编这些内容，亦包括商业性使用，只要遵守以下条件：
 
 - 署名：给出适当的署名，提供本许可协议的链接，并说明是否对作品作了修改。
 - 不得附加限制：你不得使用法律条款或技术措施，限制他人行使本许可协议允许的权利。
 
-建议署名：荷马史诗现代小说版，https://github.com/HannibalWangLecter/Books ，CC BY 4.0。
+建议署名：本仓库的现代重述与导读，https://github.com/HannibalWangLecter/Books ，CC BY 4.0。
 
-荷马的《伊利亚特》与《奥德赛》原文已进入公有领域。上述文件是依据史诗写成的重述，不是某一版权译本或校注本的复制。
+以下文本已进入公有领域。上面的许可协议不改变它们的公有领域地位：
+
+- 荷马的《伊利亚特》与《奥德赛》。本仓库的两篇是依据史诗写成的现代重述，不是某一版权译本的复制。
+- 姚秦鸠摩罗什译《金刚般若波罗蜜经》。金刚经/金刚经_原文.txt，以及金刚经/金刚经_现代导读.md 引用块中的经文，是这部译文的现代排印（简体、三十二分），不是新的译文。
 
 许可协议全文（法律文本）：
 https://creativecommons.org/licenses/by/4.0/legalcode
@@ -24,7 +27,8 @@ https://creativecommons.org/licenses/by/4.0/legalcode
 https://creativecommons.org/licenses/by/4.0/deed.zh
 
 English summary:
-You may share and adapt the two retellings for any purpose, even commercially,
-provided you give appropriate credit, link to the license, and indicate if
-changes were made. Homer's epics are in the public domain; these files are
-retellings of them.
+You may share and adapt the modern retellings and the Diamond Sutra
+commentary for any purpose, even commercially, provided you give
+appropriate credit, link to the license, and indicate if changes were
+made. Homer's epics and Kumārajīva's Diamond Sutra are in the public
+domain; quotations of them in this repository stay in the public domain.
